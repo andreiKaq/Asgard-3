@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asgard", "Asgard.csproj", "{FBCEE2C2-84B0-469F-9235-F2DF7F4B0854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCEE2C2-84B0-469F-9235-F2DF7F4B0854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCEE2C2-84B0-469F-9235-F2DF7F4B0854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCEE2C2-84B0-469F-9235-F2DF7F4B0854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCEE2C2-84B0-469F-9235-F2DF7F4B0854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF670932-361C-429D-8AE1-34EEA9E21A1F}
+	EndGlobalSection
+EndGlobal
